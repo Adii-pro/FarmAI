@@ -40,7 +40,7 @@ const PreviousScansGallery = () => {
       date: "2023-06-10",
       healthStatus: "warning",
       imageUrl:
-        "https://images.unsplash.com/photo-1601472543703-45a0677c4b07?w=400&q=80",
+        "https://images.unsplash.com/photo-1554402100-8d1d9f3dff80?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       id: "3",
@@ -48,7 +48,7 @@ const PreviousScansGallery = () => {
       date: "2023-06-05",
       healthStatus: "healthy",
       imageUrl:
-        "https://images.unsplash.com/photo-1567058518871-0a48de0ebd48?w=400&q=80",
+        "https://images.unsplash.com/photo-1561978248-bffcdd0457ad?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       id: "4",
@@ -56,7 +56,7 @@ const PreviousScansGallery = () => {
       date: "2023-06-01",
       healthStatus: "critical",
       imageUrl:
-        "https://images.unsplash.com/photo-1599421498111-ad70bebb536f?w=400&q=80",
+        "https://plus.unsplash.com/premium_photo-1671130295735-25af5e78d40c?q=80&w=1968&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       id: "5",
@@ -64,7 +64,7 @@ const PreviousScansGallery = () => {
       date: "2023-05-28",
       healthStatus: "healthy",
       imageUrl:
-        "https://images.unsplash.com/photo-1536054953991-2f9adc4f695a?w=400&q=80",
+        "https://plus.unsplash.com/premium_photo-1705338026411-00639520a438?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
   ];
 
