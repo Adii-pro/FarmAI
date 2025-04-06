@@ -35,14 +35,14 @@ FarmAI is a mobile application built with React Native and Expo that empowers fa
 
 ### 🌍 Multilingual Support
 - Multiple language options
-- Automatic detection based on device locale
+- Automatic detection based on device location
 
 ## Installation
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/farmAI.git
-   cd farmscan
+   git clone https://github.com/Adii-pro/FarmAI.git
+   cd FarmAI
    ```
 
 2. Install dependencies
@@ -90,50 +90,13 @@ FarmAI is a mobile application built with React Native and Expo that empowers fa
 - **Expo Camera**: Camera functionality
 - **Expo Haptics**: Haptic feedback
 - **React Native Reanimated**: Animations
+- **Google Cloud**: AutoML Vision, BigQuery, Cloud Functions
+- **Google IDX**: Development Platform
 
-## Project Structure
-
-```
-├── app/                  # Main application screens (file-based routing)
-├── assets/               # Static assets (images, fonts)
-├── components/           # Reusable UI components
-├── context/              # React context providers
-├── global.css            # Global styles
-└── README.md             # Project documentation
-```
-
-### Key Components
+- ### Key Components
 
 - **CameraScreen**: Camera interface for plant scanning
 - **PlantDetailsScreen**: Displays plant information and health status
 - **AIChatbot**: Conversational interface for plant care advice
 - **PreviousScansGallery**: History of previous plant scans
 - **SettingsMenu**: User preferences and app configuration
-
-## Development
-
-### Prerequisites
-- Node.js (v14 or later)
-- npm or yarn
-- Expo CLI
-- Android Studio (for Android development)
-- Xcode (for iOS development, macOS only)
-
-### Environment Setup
-
-Follow the [React Native Environment Setup](https://reactnative.dev/docs/environment-setup) guide to set up your development environment.
-
-### Building for Production
-
-```bash
-eas build --platform android  # For Android
-eas build --platform ios      # For iOS
-```
-
-## Troubleshooting
-
-### Common Issues
-
-- **Camera Permission Denied**: Ensure you've granted camera permissions in your device settings
-- **Offline Mode Not Working**: Check if you've downloaded the essential data before going offline
-- **Scan Not Working**: Make sure the plant is well-lit and positioned within the frame
